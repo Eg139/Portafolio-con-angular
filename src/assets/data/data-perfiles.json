@@ -1,0 +1,20 @@
+[
+    {
+        "frase":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        "nombre":"Eric Guzman",
+        "subtitulo":"Programador",
+        "twitter":"@EricGuzmn2",
+        "url":"https://firebasestorage.googleapis.com/v0/b/proyecto-angular-994fc.appspot.com/o/team-1.jpg?alt=media&token=be945988-5e62-472a-89ce-eefa62d1e48c"},
+    {
+        "frase":"Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+        "nombre":"Micaela Aprea",
+        "subtitulo":"Veterinaria",
+        "twitter":"@michi",
+        "url":"https://firebasestorage.googleapis.com/v0/b/proyecto-angular-994fc.appspot.com/o/team-2.jpg?alt=media&token=7d60529c-94d9-48fb-8f11-aefac8e8fca3"},
+    {
+        "frase":"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "nombre":"Ricardo Atom",
+        "subtitulo":"Jugador de Futbol",
+        "twitter":"@tsubasa",
+        "url":"https://firebasestorage.googleapis.com/v0/b/proyecto-angular-994fc.appspot.com/o/team-3.jpg?alt=media&token=33f23245-759e-4a18-9128-6faf99529222"}
+    ]
